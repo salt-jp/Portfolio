@@ -1,0 +1,12 @@
+
+{
+	"origin": ["Order Number #number##punct# Your #milk#, #fruit a#, #fruit b#, and #misc add-in# smoothie with extra #topping# on top is ready! #farewell#"],
+         "punct": ["!", "?", "?!"],
+        "number": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45", "46", "47", "48", "49", "50", "51", "52", "53", "54", "55", "56", "57", "58", "59", "60"],
+        "milk": ["whole milk", "almond milk", "skim milk", "oat milk", "soy milk", "organic milk", "lactose-free milk", "low-fat milk", "buttermilk"],
+        "fruit a": ["raspberry", "blueberry", "avocado", "mango", "cherry", "apple", "kiwi", "watermelon", "lychee", "pear", "strawberry"],
+	"fruit b" : ["banana", "blackberry", "apple", "peach", "pineapple", "pumpkin", "grapefruit", "dragonfruit", "starfruit", "grape", "orange"],
+	"misc add-in" : ["peanut butter", "strawberry yogurt", "vanilla extract", "chia seed", "cocoa powder", "cinnamon", "coconut water", "peach yogurt", "ground coffee", "almond butter", "lemon juice", "matcha", "greek yogurt", "lime juice"],
+        "topping": ["whipped cream", "shredded coconut", "granola", "pomegranate seeds", "chocolate syrup", "oats", "corn flakes", "peanuts", "cashews", "coconut whipped cream", "strawberry syrup", "mint leaves", "goji berries", "pumpkin seeds", "apple slices", "blueberries", "strawberries", "raspberries"],
+        "farewell": ["Come again soon!", "Enjoy your drink!", "Hope to see you again soon.", "Enjoy!", "Thank you for coming!", "Please come again!", "Goodbye!", "Have a great day!"]
+}
